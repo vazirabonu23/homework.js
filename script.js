@@ -4,8 +4,7 @@
 // let surname = "O'ralova"
 // let age = "16"
 
-// console.log("Mening ismim" + " " +firstname+ ", Familiyasi esa " + surname)
-
+// console.log("Mening ismim" + " " +firstname+ ", Familiyasi esa " + surname,""mening yoshim"+age)
 
 //homewoork2
 
