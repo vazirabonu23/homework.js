@@ -15,13 +15,11 @@
 //     age:16,
 //     color:"green",
 // }
-// console.log(obj);
+// )
 
+console.log("My name is",(obj.name),",and surname is",(obj.surname),".I'm",(obj.age),"years old,""my favorourite color is" (obj.color))
+  
 
-
-//homework3
-
-// let one = prompt("Birinch sonni kiriting")
 // let two= prompt("Ikkinchi sonni kiriting")
-
+// let two= prompt("Ikkinchi sonni kiriting")
 // console.log(Number(one) % Number(two))
